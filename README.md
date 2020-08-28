@@ -8,11 +8,9 @@
 
 - 🔭 I’m currently working on **Deep learning.**
 
-- 👯 I’m looking to collaborate on **Flutter Development.**
+- 👯 I’m Flirting on **Flutter**
 
 - 👨‍💻 All of my projects are available at [http://krunalsuthar.ml](http://krunalsuthar.ml)
-
-- 📝 I regulary write articles on [Krunalsuthar.ml](Krunalsuthar.ml)
 
 - 💬 Ask me about **Flutter,Dart,Machine Learning.Deep learning**
 
