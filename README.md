@@ -27,7 +27,5 @@
 <a href="https://linkedin.com/in/krunal suthar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="krunal suthar" height="30" width="30" /></a>
 <a href="https://fb.com/krunal suthar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="krunal suthar" height="30" width="30" /></a>
 <a href="https://instagram.com/mr_krunal,.suthar_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr_krunal,.suthar_" height="30" width="30" /></a>
-<a href="https://dribbble.com/krunal suthar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="krunal suthar" height="30" width="30" /></a>
-<a href="https://www.behance.net/krunal suthar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="krunal suthar" height="30" width="30" /></a>
-<a href="https://medium.com/krunalsuthar345" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="krunalsuthar345" height="30" width="30" /></a>
+
 </p>
