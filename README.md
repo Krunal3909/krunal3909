@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Krunal Suthar</h1>
-<h3 align="center">Aspiring AI Researcher and Flutter Developer</h3>
+<h3 align="center">Aspiring Data Scientist and Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krunal3909" alt="krunal3909" /> </p>
 
 - 🔭 I’m currently working on **Deep learning.**
 
-- 👯 I’m Flirting on **Flutter**
+- 👯 Sometimes Flirting with **Flutter**
 
 - 👨‍💻 All of my portfolio is available at [here](https://krunalsuthar345.wixsite.com/krunalsuthar)
 
