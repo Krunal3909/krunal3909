@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **krunalsuthar345@gmail.com**
 
-- ⚡ Fun fact **Chai over coffee**
+- ⚡ Fun fact:**Chai over coffee**
 
 
 
