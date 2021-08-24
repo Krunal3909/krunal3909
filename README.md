@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [http://krunalsuthar.ml](http://krunalsuthar.ml)
 
-- 💬 Ask me about **Flutter,Dart,Machine Learning,Deep learning**
+- 💬 Ask me about **Data Science, Machine Learning, Deep learning**
 
 - 📫 How to reach me **krunalsuthar345@gmail.com**
 
