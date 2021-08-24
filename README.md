@@ -7,7 +7,7 @@
 
 - 👯 I’m Flirting on **Flutter**
 
-- 👨‍💻 All of my projects are available at [here](https://krunalsuthar345.wixsite.com/krunalsuthar)
+- 👨‍💻 All of my portfolio is available at [here](https://krunalsuthar345.wixsite.com/krunalsuthar)
 
 - 💬 Ask me about **Data Science, Machine Learning, Deep learning**
 
