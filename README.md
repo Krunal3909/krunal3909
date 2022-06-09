@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krunal Suthar</h1>
-<h3 align="center">Aspiring Data Scientist and Researcher</h3>
+<h3 align="center">Aspiring Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krunal3909" alt="krunal3909" /> </p>
 
